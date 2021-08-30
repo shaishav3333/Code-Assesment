@@ -1,0 +1,84 @@
+.user-card-container{
+    border:1px solid rgb(237, 235, 233);
+    margin-left: 20px;
+}
+
+.user-details {
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+.details-93{
+    display:none;
+}
+.user-name{
+    padding-left: 10px;
+}
+.user-options{
+    text-align: left;
+}
+
+.user-options h4,
+.user-settings h4{
+    font-size: 12px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: #ccc;
+    padding-left: 10px;
+    text-align: left;
+}
+.user-options-links-group{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user-options-links-group button{
+    margin: 10px;
+    flex: 1 505;
+    white-space: nowrap;
+    padding: 35px;
+    border-radius: 7px;
+}
+
+.user-settings {
+    padding:0 10px
+}
+.user-settings .toolbar{
+    border: 1px solid #a89898f0;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+
+.user-settings .toolbar button{
+    padding:0 10px;
+    height: 30px;
+    border:none;
+    border-radius: 15px;
+    margin:5px;
+}
+.flex-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+    border:1px solid #a89898f0;
+    border-radius: 5px;
+    
+}
+.d-flex .circle{
+    height: 40px;
+}
+.d-flex button{
+    height: 30px;
+    border-radius: 15px;
+    border:none;
+    margin:5px;
+}
+.d-flex .circle1{
+    padding-top:5px;
+}

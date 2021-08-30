@@ -1,0 +1,25 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.navbar-left {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+}
+.navbar-left span{
+    height: 30px;
+}
+
+.navbar-left h3 {
+    margin: 0;
+}
+.navbar-right {
+    display: flex;
+    align-items: center;
+}
+.navbar-right span{
+    height: 30px;
+    margin:0 10px;
+}

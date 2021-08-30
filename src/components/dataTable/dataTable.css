@@ -1,0 +1,10 @@
+.data-container{
+    text-align: left;
+}
+.ms-DetailsRow-check{
+    opacity: 1;
+}
+.ms-Viewport{
+    height: 600px;
+    overflow: auto;
+}

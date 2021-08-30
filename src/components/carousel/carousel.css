@@ -1,0 +1,37 @@
+
+.carousel .slide img{
+    height: 400px;
+}
+.carousel span.carousel-status{
+    left: 0;
+    text-align: left;
+    bottom: 0;
+    padding: 50px !important;
+    text-shadow: none;
+}
+.carousel .carousel-status p{
+    color: #8b8784;
+    font-weight: 300;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.carousel .carousel-status h1{
+    font-size: 50px;
+    color: #000;
+}
+.carousel .carousel-status h4{
+    max-width: 500px;
+    color: #535251;
+    font-size: 15px;
+}
+.content-btn-group{
+    margin: 30px 0;
+    margin-top: 50px;
+}
+.carousel .control-dots{
+    bottom: 20px !important;
+}
+.content-btn-group button{
+    margin-right: 20px;
+    border-radius: 8px;
+}
